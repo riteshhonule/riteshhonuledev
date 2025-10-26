@@ -1,0 +1,74 @@
+[
+  
+  {
+    "name": "Exam Portal",
+    "desc": "A full-stack web application built using Django and React for managing online exams, including student registration, question management, and real-time result generation.",
+    "image": "exam_portal",
+    "category": "Web Development",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/exam-portal"
+    }
+  },
+  {
+    "name": "Live Payment Integration",
+    "desc": "Implemented a secure payment gateway integration in a Django-based web application, allowing users to make real-time transactions via Razorpay/PayPal/Stripe.",
+    "image": "live_payment",
+    "category": "Web Development",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/live-payment-integration"
+    }
+  },
+  {
+    "name": "Facelock Security system",
+    "desc": "A Python project using OpenCV to detect faces in real-time from a webcam and create a structured dataset of captured images.",
+    "image": "security",
+    "category": "Artificial Intelligence",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/facelock_security_sysytem_py/blob/main/facelock_security_sysytem.py"
+    }
+  },
+  {
+    "name": "Simple Calculator",
+    "desc": "A simple C program that performs basic arithmetic operations using a switch case and runs continuously until exited by the user..",
+    "image": "calculator",
+    "category": "C language",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/Simple-Calculator---C"
+    }
+  },
+  {
+    "name": "Stone-paper-scissors_Game - C ",
+    "desc": "A Stone, Paper, Scissors game using the C programming language, where you play against the computer with randomized choices.",
+    "image": "stone",
+    "category": "C language",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/Stone-paper-scissors_Game"
+    }
+  },
+  {
+    "name": "Bank Management System - C",
+    "desc": "A simple C-based Bank Management System for managing deposits, withdrawals, transfers, and viewing account details with transaction history.",
+    "image": "bank",
+    "category": "C language",
+    "links": {
+      "view": "https://www.linkedin.com/in/ritesh-honule-1b8976285/?originalSubdomain=in",
+      "code": "https://github.com/riteshhonule/Bank-Management-System---C"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfoliomy",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
